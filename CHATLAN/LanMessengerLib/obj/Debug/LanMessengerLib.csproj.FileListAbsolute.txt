@@ -1,0 +1,37 @@
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaLib\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaLib\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaLib\obj\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\ChatMasalaLib\obj\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerLib\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerLib\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerLib\obj\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\LanMessengerLib\obj\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerLib\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerLib\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerLib\obj\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerLib\obj\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerLib\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerLib\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerLib\obj\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\Lan Messenger\LanMessengerLib\obj\Debug\LanMessengerLib.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerLib\bin\Debug\LanMessengerLib.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerLib\bin\Debug\LanMessengerLib.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerLib\obj\Debug\LanMessengerLib.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerLib\obj\Debug\LanMessengerLib.pdb
+D:\C#\Lan Messenger\LanMessengerLib\bin\Debug\LanMessengerLib.dll
+D:\C#\Lan Messenger\LanMessengerLib\bin\Debug\LanMessengerLib.pdb
+D:\C#\Lan Messenger\LanMessengerLib\obj\Debug\LanMessengerLib.csproj.AssemblyReference.cache
+D:\C#\Lan Messenger\LanMessengerLib\obj\Debug\LanMessengerLib.csproj.CoreCompileInputs.cache
+D:\C#\Lan Messenger\LanMessengerLib\obj\Debug\LanMessengerLib.dll
+D:\C#\Lan Messenger\LanMessengerLib\obj\Debug\LanMessengerLib.pdb
+C:\Users\Administrator\Downloads\Ứng dụng chat qua LAN\Ứng dụng chat qua LAN\LanMessengerLib\bin\Debug\LanMessengerLib.dll
+C:\Users\Administrator\Downloads\Ứng dụng chat qua LAN\Ứng dụng chat qua LAN\LanMessengerLib\bin\Debug\LanMessengerLib.pdb
+C:\Users\Administrator\Downloads\Ứng dụng chat qua LAN\Ứng dụng chat qua LAN\LanMessengerLib\obj\Debug\LanMessengerLib.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Ứng dụng chat qua LAN\Ứng dụng chat qua LAN\LanMessengerLib\obj\Debug\LanMessengerLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Ứng dụng chat qua LAN\Ứng dụng chat qua LAN\LanMessengerLib\obj\Debug\LanMessengerLib.dll
+C:\Users\Administrator\Downloads\Ứng dụng chat qua LAN\Ứng dụng chat qua LAN\LanMessengerLib\obj\Debug\LanMessengerLib.pdb
