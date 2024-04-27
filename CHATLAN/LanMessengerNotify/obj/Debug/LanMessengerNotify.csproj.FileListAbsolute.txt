@@ -1,0 +1,27 @@
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Debug\LanMessengerNotify.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Debug\LanMessengerNotify.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.Properties.Resources.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.TrayBalloonFrm.resources
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\Debug\LanMessengerNotify.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\Debug\LanMessengerNotify.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.Properties.Resources.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\TrayBalloon.TrayBalloonFrm.resources
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\LanMessengerNotify\obj\Debug\LanMessengerNotify.pdb
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Debug\LanMessengerNotify.dll
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Debug\LanMessengerNotify.pdb
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\LanMessengerNotify\obj\Debug\LanMessengerNotify.csproj.AssemblyReference.cache
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\LanMessengerNotify\obj\Debug\TrayBalloon.Properties.Resources.resources
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\LanMessengerNotify\obj\Debug\TrayBalloon.TrayBalloonFrm.resources
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\LanMessengerNotify\obj\Debug\LanMessengerNotify.csproj.GenerateResource.cache
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\LanMessengerNotify\obj\Debug\LanMessengerNotify.csproj.CoreCompileInputs.cache
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\LanMessengerNotify\obj\Debug\LanMessengerNotify.dll
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\LanMessengerNotify\obj\Debug\LanMessengerNotify.pdb
