@@ -1,0 +1,46 @@
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\bin\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\bin\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\obj\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\LAN CHAT\ChatMasalaSource\Database Server\obj\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\LAN CHAT\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+C:\Users\Ding\Desktop\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+E:\Visual Studio 2010\Projects\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+D:\C#\Lan Messenger\Database Server\bin\Debug\Temporary Server.exe
+D:\C#\Lan Messenger\Database Server\bin\Debug\Temporary Server.pdb
+D:\C#\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.dll
+D:\C#\Lan Messenger\Database Server\bin\Debug\LanMessengerLib.pdb
+D:\C#\Lan Messenger\Database Server\obj\Debug\Database Server.csproj.AssemblyReference.cache
+D:\C#\Lan Messenger\Database Server\obj\Debug\Database Server.csproj.CoreCompileInputs.cache
+D:\C#\Lan Messenger\Database Server\obj\Debug\Database.972B5CAD.Up2Date
+D:\C#\Lan Messenger\Database Server\obj\Debug\Temporary Server.exe
+D:\C#\Lan Messenger\Database Server\obj\Debug\Temporary Server.pdb
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Database Server\bin\Debug\Temporary Server.exe
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Database Server\bin\Debug\Temporary Server.pdb
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Database Server\bin\Debug\LanMessengerLib.dll
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Database Server\bin\Debug\LanMessengerLib.pdb
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Database Server\obj\Debug\Database Server.csproj.AssemblyReference.cache
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Database Server\obj\Debug\Database Server.csproj.CoreCompileInputs.cache
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Database Server\obj\Debug\Database.972B5CAD.Up2Date
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Database Server\obj\Debug\Temporary Server.exe
+D:\BTL-LAptrinhmang\Ứng dụng chat qua LAN\Database Server\obj\Debug\Temporary Server.pdb
