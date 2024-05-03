@@ -1,0 +1,49 @@
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\Lan Messenger.exe
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\Lan Messenger.pdb
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.dll
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\LanMessengerContact.dll
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\LanMessengerLib.dll
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\LanMessengerNotify.dll
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\LanMessengerContact.pdb
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\DirectX.Capture.pdb
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\DShowNET.pdb
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\LanMessengerChatRoomBase.pdb
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\LanMessengerLib.pdb
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\LanMessengerNotify.pdb
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\Interop.WMPLib.dll
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.AssemblyReference.cache
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Interop.WMPLib.dll
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.ResolveComReference.cache
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangeDisplayName.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChatRoom.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormJoinRoom.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormLogsReader.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOption.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.Form1.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAbout.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormAddContact.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormChangePassword.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormCreateAccount.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileReceive.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormFileSender.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormMessage.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormNetworkSettings.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormOfflineMessages.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoReceive.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormPhotoSend.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSelectContact.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormSignIn.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.FormWebcam.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan_Messenger.Properties.Resources.resources
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.GenerateResource.cache
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\LAN MESSENGER.csproj.CoreCompileInputs.cache
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\LAN MESS.BC6A54A7.Up2Date
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan Messenger.exe
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan Messenger.pdb
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\Lan Messenger.exe.config
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\Lan Messenger.exe.manifest
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\bin\Debug\Lan Messenger.application
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan Messenger.exe.manifest
+D:\C#\Ứng dụng chat qua LAN\LAN MESSENGER\obj\Debug\Lan Messenger.application
